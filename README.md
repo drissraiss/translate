@@ -1,0 +1,1 @@
+With this script, you can translate any text file into a new text file in any language you chose.
